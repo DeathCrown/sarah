@@ -1,1 +1,1 @@
-web:python red.py runserver
+web: python red.py runserver 0.0.0.0:$PORT
