@@ -1,1 +1,1 @@
-Eszalts: start_red_autorestart.bat
+web:python red.py runserver
